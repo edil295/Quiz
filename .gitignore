@@ -1,0 +1,5 @@
+venv/
+.idea/
+app/entrypoint.sh
+**/__pycache__/
+*.pyc
